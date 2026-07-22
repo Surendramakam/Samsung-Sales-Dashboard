@@ -1,79 +1,103 @@
 # 📊 Samsung Sales Dashboard
-Interactive Power BI dashboard analyzing Samsung sales performance using Power BI, DAX, and Excel.
-
 
 ## 📌 Project Overview
 
-This project is an interactive **Power BI dashboard** developed to analyze Samsung sales performance. It provides valuable business insights into sales trends, product performance, regional sales, and customer behavior to support data-driven decision-making.
+The **Samsung Sales Dashboard** is an interactive Power BI project designed to analyze sales performance and provide business insights. The dashboard enables users to explore sales trends, product performance, customer behavior, and regional performance through interactive visualizations.
+
+---
+
+## 🎯 Objective
+
+The objective of this project is to transform raw sales data into meaningful insights that support business decision-making using Power BI.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- Power BI
+- Microsoft Power BI
 - Power Query
-- DAX
+- DAX (Data Analysis Expressions)
 - Microsoft Excel
 
 ---
 
 ## 📈 Dashboard Features
 
-- 📌 Sales KPI Cards
+- 📊 Sales KPI Cards
 - 📅 Monthly Sales Trend
 - 🌍 Region-wise Sales Analysis
 - 📦 Product Performance
 - 👥 Customer Analysis
 - 💰 Profit Analysis
-- 🎛 Interactive Slicers & Filters
+- 🎛 Interactive Filters & Slicers
 
 ---
 
-## 📊 Dashboard Preview
+# 📷 Dashboard Preview
 
-### Home Dashboard
+## 🏠 Home Dashboard
 
-![Home Dashboard](Screenshot%202026-07-22%20161933.png)
-
-### Sales Analysis
-
-![Sales Dashboard](Screenshot%202026-07-22%20162217.png)
-
-### Product Performance
-
-![Product Dashboard](Screenshot%202026-07-22%20162250.png)
-
-### Customer Insights
-
-![Customer Dashboard](Screenshot%202026-07-22%20162343.png)
-
-### Business Insights
-
-![Insights](Screenshot%202026-07-22%20162413.png)
+![Home Dashboard](HomeDashboard.png)
 
 ---
 
-## 💡 Key Business Insights
+## 📈 Sales Analysis
+
+![Sales Analysis](SalesAnalysis.png)
+
+---
+
+## 📦 Product Performance
+
+![Product Performance](ProductPerformance.png)
+
+---
+
+## 👥 Customer Insights
+
+![Customer Insights](CustomerInsights.png)
+
+---
+
+## 💡 Business Insights
+
+![Business Insights](BusinessInsights.png)
+
+---
+
+# 💡 Key Insights
 
 - Identified top-performing Samsung products.
-- Compared sales performance across different regions.
-- Analyzed monthly sales trends.
-- Evaluated customer purchasing behavior.
+- Compared sales across multiple regions.
+- Tracked monthly sales growth.
+- Analyzed customer purchasing behavior.
 - Built an interactive dashboard for business decision-making.
 
 ---
 
-## 📁 Project Files
+# 📂 Project Files
 
-- SAMSUNG.pbix
-- Dashboard Screenshots
+| File | Description |
+|------|-------------|
+| SAMSUNG.pbix | Power BI Dashboard |
+| HomeDashboard.png | Home Dashboard Screenshot |
+| SalesAnalysis.png | Sales Dashboard Screenshot |
+| ProductPerformance.png | Product Dashboard Screenshot |
+| CustomerInsights.png | Customer Dashboard Screenshot |
+| BusinessInsights.png | Business Insights Screenshot |
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Surendra Makam**
 
-Aspiring Data Analyst
+📧 Email: *Your Email*
 
-Power BI | SQL | Excel | Python
+🔗 LinkedIn: *Your LinkedIn URL*
+
+💼 Aspiring Data Analyst
+
+---
+
+⭐ If you found this project useful, consider giving it a Star.
